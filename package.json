@@ -1,0 +1,22 @@
+{
+  "name": "scrumtastic-geordyp",
+  "version": "1.0.0",
+  "description": "Scrumtastic is a web-based agile development tool for [SCRUM](https://en.wikipedia.org/wiki/Scrum_(software_development))-like software development processes.  It maintains a product backlog, provides a sprint task board, and automatically generates a sprint burndown and release burnup charts.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S17cis526/scrumtastic-geordyp.git"
+  },
+  "author": "Geordy Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/S17cis526/scrumtastic-geordyp/issues"
+  },
+  "homepage": "https://github.com/S17cis526/scrumtastic-geordyp#readme",
+  "dependencies": {
+    "sqlite3": "3.1.8"
+  }
+}
